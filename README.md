@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there, 
+----------
+### My name is Kamila 😁
+🎓 I'm student of analysis and development of systems
+
+🚀 Evolving front-end developer
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/kamila-pereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"">
+  </a>  
+
+
 
 <!--
 **kahpereira/kahpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
