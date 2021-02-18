@@ -10,7 +10,8 @@
   </a> <a href="mailto:kamilapereira@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a> <a href="https://www.instagram.com/kamilapereiira_/"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 ### 📊 GitHub estatísticas:
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&hide=prs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahpereira&layout=compact&theme=radical)](https://github.com/kahpereira/github-readme-stats)<br>
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
 
 
 <!--
