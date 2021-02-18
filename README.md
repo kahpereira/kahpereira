@@ -1,9 +1,9 @@
-## Hi there, 
-### My name is Kamila 😁
-- 🎓 I'm student of analysis and development of systems
-- 🚀 Evolving front-end developer
+## Olá, 
+### meu nome é Kamila 😁
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🚀 Desenvolvedora front-end em desenvolvimento
 
-### 📫 How to reach me:
+### 📫 Entre em contato comigo:
 - <a href="https://www.linkedin.com/in/kamila-pereira/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"">
   </a>  
