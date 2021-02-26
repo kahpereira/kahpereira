@@ -11,7 +11,7 @@
   
 ### 📊 GitHub estatísticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahpereira&layout=compact&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)<br>
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
+<!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
 
 
 <!--
