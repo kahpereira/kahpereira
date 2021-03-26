@@ -3,6 +3,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Desenvolvedora front-end em desenvolvimento
 - ❤ Sou apaixonada por gatos, star wars, animes e games
+![alt text](https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif)
 
 ### 📫 Entre em contato comigo:
 <a href="https://www.linkedin.com/in/kamila-pereira/">
@@ -11,7 +12,7 @@
   
 ### 📊 GitHub estatísticas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahpereira&layout=compact&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)<br>
-<!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
 
 
 <!--
