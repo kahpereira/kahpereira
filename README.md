@@ -3,7 +3,10 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Desenvolvedora front-end em desenvolvimento
 - ❤ Sou apaixonada por gatos, star wars, animes e games
-![alt text](https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif)
+<p float="right">
+  <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width="300px" />
+</p>
+
 
 ### 📫 Entre em contato comigo:
 <a href="https://www.linkedin.com/in/kamila-pereira/">
