@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" max-width="400px" width="400px" align="right"/>
+<img src="https://github.com/kahpereira/kahpereira/blob/master/my-octocat.png" max-width="400px" width="400px" align="right"/>
 
 ## Olá, seja bem-vindo(a) 👋🏼
 ### 🦸🏻‍♀️ Um pouco sobre mim:
