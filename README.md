@@ -3,7 +3,7 @@
 ## Olá, seja bem-vindo(a) 👋🏼
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🚀 Desenvolvedora front-end em desenvolvimento
+- 🚀 Desenvolvedora front-end
 - ❤ Sou apaixonada por gatos, star wars, animes e games
 
 
