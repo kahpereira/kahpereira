@@ -1,24 +1,33 @@
-<img src="https://github.com/kahpereira/kahpereira/blob/master/my-octocat.png" max-width="400px" width="400px" align="right"/>
+#### Olá, sou a Kamila 👋
 
-## Olá, seja bem-vindo(a) 👋🏼
-### 🦸🏻‍♀️ Um pouco sobre mim:
-- 🚀 Desenvolvedora front-end
-- ❤ Sou apaixonada por gatos, star wars, animes e games
+Desenvolvedora front-end apaixonada por criar soluções modernas e escaláveis, com quase 4 anos de experiência utilizando as mais recentes tecnologias e boas práticas de desenvolvimento.
 
+#### 🚀 Sobre mim
 
+Sou desenvolvedora front-end com experiência sólida em frameworks como **React** e **Vue**, trabalhando no ciclo completo de desenvolvimento de produtos, desde a concepção até a entrega. Tenho um forte foco em qualidade de código, com experiência em testes **unitários** e **E2E** utilizando **Jest**, **Testing Library** e **Cypress**.
 
+Adicionalmente, tenho experiência no desenvolvimento de **APIs** com **FastAPI** e sou entusiasta de boas práticas de versionamento de código com **Git**.
 
-### 📫 Entre em contato comigo:
-<a href="https://www.linkedin.com/in/kamila-pereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
-  </a> <a href="mailto:kamilapereira@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a> <a href="https://www.instagram.com/kamilapereiira_/">
-  
-### 📊 GitHub estatísticas:
-<!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&hide_rank=true&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahpereira&count_private=true&langs_count=6&hide=php&layout=compact&hide_border=true&theme=default)](https://github.com/kahpereira/github-readme-stats)
+Minha expertise também inclui a **implementação de Design Systems** e a documentação de componentes com **Storybook**, garantindo uma base consistente tanto visual quanto técnica.
 
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+Sou comprometida com a inovação, sempre buscando eficiência e alinhamento com as melhores práticas de desenvolvimento e colaboração com equipes de design e back-end.
 
-<!--
-**kahpereira/kahpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠️ Tecnologias e Ferramentas
+
+- **Front-end**: Vue, React, HTML5, CSS3, JavaScript e TypeScript
+- **APIs**: FastAPI
+- **Testes**: Jest, Testing Library, Cypress
+- **Versionamento de Código**: Git
+- **Design Systems**: Storybook
+
+#### 🎮 Fora do código
+
+Quando não estou codando, gosto de jogar videogame, assistir futebol e outros esportes, além de ser apaixonada por animes. Também sou amante de pets e tenho uma adorável cachorrinha chamada Aurora.
+
+---
+
+### Vamos nos conectar!
+
+Se você estiver interessado em discutir um projeto e trocar ideias sobre tecnologia, fique à vontade para me enviar uma mensagem!
+
+<a href="https://www.linkedin.com/in/kamila-pereira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:kamilapereira@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a>
