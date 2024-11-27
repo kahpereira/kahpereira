@@ -1,4 +1,4 @@
-#### Olá, sou a Kamila 👋
+### Olá 👋
 
 Desenvolvedora front-end apaixonada por criar soluções modernas e escaláveis, com quase 4 anos de experiência utilizando as mais recentes tecnologias e boas práticas de desenvolvimento.
 
